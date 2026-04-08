@@ -1,8 +1,8 @@
-**BEWARE OF FAKES! ONLY TRUST THE CA POSTED HERE**
+# BEWARE OF FAKES! ONLY TRUST THE CA POSTED HERE**
 
 # 🫧 $SpoPatr - The Organic Legend 🚀
 ## 🚨 STATUS: [ LIVE NOW - TO THE MARS! ] 🚨
-### 📄 CA: `[DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]`
+### 📄 OFFICIAL CA: `[DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]`
 
 
 
@@ -17,7 +17,7 @@ Our mission is to build a massive, loyal "Bikini Bottom Squad" that drives the p
 ## 📋 ### 📍 Project Milestones:
 * **Organic Community Building:** ✅ COMPLETED
 * **Infrastructure Setup:** ✅ COMPLETED
-* **Official Launch:** 🚨 **COMING SOON! (Check Telegram for the exact hour)** 🚀
+* **Official Launch:** 🚨 **🚀 LIVE NOW ON PUMP.FUN!**
 
 ## 🤝 Join the Squad
 - **Telegram:** [https://t.me/spopatrsol]
@@ -37,7 +37,7 @@ While the legends take their rest at the bottom of the ocean, **$SpoPatr** is ig
 * **From:** Deep Sea (Bikini Bottom)
 * **To:** MARS 🌌
 * **Fuel:** 100% Organic Community Power (No Paid Shills)
-* **Estimated Launch:** *Updated Strategy: LAUNCHING SOON!* 🚀
+* **Estimated Launch:** *LIVE NOW ON PUMP.FUN!🚀*
 
 **The baton has been passed. The engine is loud. The bubbles are rising.** 🫧
 ---
