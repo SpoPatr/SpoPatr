@@ -1,6 +1,7 @@
-# $SpoPatr: The Most Organic Community on Solana 🫧🚀
 # 🫧 $SpoPatr - The Organic Legend 🚀
-## 🚨 STATUS: [ LAUNCHING SOON - PREPARE FOR TAKEOFF! ] 🚨
+## 🚨 STATUS: [ LIVE NOW - TO THE MARS! ] 🚨
+### 📄 CA: `[DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]`
+
 
 
 "In Bikini Bottom, we don't just flip burgers; we ignite rocket engines. Stay Solid!" 🍍
@@ -19,7 +20,8 @@ Our mission is to build a massive, loyal "Bikini Bottom Squad" that drives the p
 ## 🤝 Join the Squad
 - **Telegram:** [https://t.me/spopatrsol]
 - **X (Twitter):** [https://x.com/SpoPatr]
-- **Pump.fun Profile:** [https://join.pump.fun/HSag/23xqcpuv]
+- **Pump.fun Profile:** [https://pump.fun/coin/DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]
+- **Contract Address:** [DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]
 
 *Hold until the first milestone. Diamond Hands Only!* 💎🧤
 
