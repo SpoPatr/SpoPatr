@@ -1,3 +1,5 @@
+**BEWARE OF FAKES! ONLY TRUST THE CA POSTED HERE**
+
 # 🫧 $SpoPatr - The Organic Legend 🚀
 ## 🚨 STATUS: [ LIVE NOW - TO THE MARS! ] 🚨
 ### 📄 CA: `[DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]`
