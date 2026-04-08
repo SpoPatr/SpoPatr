@@ -10,7 +10,7 @@ Our mission is to build a massive, loyal "Bikini Bottom Squad" that drives the p
 
 ## 📋 Project Milestones
 - **Community Building:** Establishing the Bikini Bottom Squad (Active Now).
-- **Official Launch:** Set for **May 13, 2026**.
+- **Official Launch:** Set for **April 8 , 2026**.
 - **Transparency:** Open-source documentation and regular community updates.
 
 ## 🤝 Join the Squad
