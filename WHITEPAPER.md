@@ -12,7 +12,7 @@ In an era of manipulated markets, $SpoPatr stands on three pillars:
 
 ## 3. Tokenomics
 * **Token Name:** $SpoPatr
-* **Ticker:** $SPATR
+* **Ticker:** $SPOPATR
 * **Blockchain:** Solana (SPL)
 * **Total Supply:** 1,000,000,000
 * **Tax Policy:** 0% Buy / 0% Sell Tax (Pure Utility/Meme)
