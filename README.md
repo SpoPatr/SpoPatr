@@ -11,10 +11,10 @@ $SpoPatr is a community-driven project built on integrity and transparency. We a
 ## 🚀 Mission to Mars
 Our mission is to build a massive, loyal "Bikini Bottom Squad" that drives the project forward without the need for paid influencers. We believe in the power of the bubbles 🫧.
 
-## 📋 Project Milestones
-- **Community Building:** Establishing the Bikini Bottom Squad (Active Now).
-- **Official Launch:** Set for **April 8 , 2026**.
-- **Transparency:** Open-source documentation and regular community updates.
+## 📋 ### 📍 Project Milestones:
+* **Organic Community Building:** ✅ COMPLETED
+* **Infrastructure Setup:** ✅ COMPLETED
+* **Official Launch:** 🚨 **COMING SOON! (Check Telegram for the exact hour)** 🚀
 
 ## 🤝 Join the Squad
 - **Telegram:** [https://t.me/spopatrsol]
