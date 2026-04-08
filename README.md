@@ -21,7 +21,6 @@ Our mission is to build a massive, loyal "Bikini Bottom Squad" that drives the p
 - **X (Twitter):** [https://x.com/SpoPatr]
 - **Pump.fun Profile:** [https://join.pump.fun/HSag/23xqcpuv]
 
----
 *Hold until the first milestone. Diamond Hands Only!* 💎🧤
 
 ## 👑 THE LEGENDARY RELAY: $SpoPatr is Next! 🫧
@@ -37,3 +36,4 @@ While the legends take their rest at the bottom of the ocean, **$SpoPatr** is ig
 * **Estimated Launch:** *Updated Strategy: LAUNCHING SOON!* 🚀
 
 **The baton has been passed. The engine is loud. The bubbles are rising.** 🫧
+---
