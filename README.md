@@ -20,7 +20,7 @@ Our strategy focuses on accelerating the Bonding Curve to achieve these primary 
 3. **CEX Domination:** Fast-track submission to **MEXC**, **Gate.io**, and **Bybit**.
 
 > 📄 **For comprehensive technical details, economic structure, and our complete CEX listing strategy, please refer to the official documentation:**
-> ### 👉 [READ THE WHITEPAPER HERE](./WHITEPAPER.md)
+> ### 👉 [READ THE WHITEPAPER HERE](https://github.com/SpoPatr/spopatr-official/blob/main/WHITEPAPER.md)
 
 ---
 
