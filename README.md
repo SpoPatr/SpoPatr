@@ -27,7 +27,7 @@ Our strategy focuses on accelerating the Bonding Curve to achieve these primary 
 ## 🔗 Official Channels
 - **Telegram:** [JOIN THE SQUAD](https://t.me/spopatrsol)
 - **X (Twitter):** [FOLLOW UPDATES](https://x.com/SpoPatr)
-- **Website:** [OFFICIAL WEBSITE](https://spopatr.carrd.co))
+- **Website:** [OFFICIAL WEBSITE](https://spopatr.carrd.co)
 - **Live Chart:** [VIEW PROGRESS ON PUMP.FUN](https://pump.fun/coin/DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump)
 
 ---
