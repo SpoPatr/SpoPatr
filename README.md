@@ -1,43 +1,34 @@
-# BEWARE OF FAKES! ONLY TRUST THE CA POSTED HERE**
+# $SPOPATR: The Bikini Bottom Protocol 🫧🪐
 
-# 🫧 $SpoPatr - The Organic Legend 🚀
-## 🚨 STATUS: [ LIVE NOW - TO THE MARS! ] 🚨
-### 📄 OFFICIAL CA: `[DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]`
+**$SPOPATR** is a decentralized, community-led liquidity engine built on the Solana Blockchain. We combine iconic meme culture with a strategic roadmap focused on global exchange dominance.
 
-
-
-"In Bikini Bottom, we don't just flip burgers; we ignite rocket engines. Stay Solid!" 🍍
-
-## 🌊 Overview
-$SpoPatr is a community-driven project built on integrity and transparency. We are tired of scams and bots, which is why we are here to lead a purely organic journey on the Solana network.
-
-## 🚀 Mission to Mars
-Our mission is to build a massive, loyal "Bikini Bottom Squad" that drives the project forward without the need for paid influencers. We believe in the power of the bubbles 🫧.
-
-## 📋 ### 📍 Project Milestones:
-* **Organic Community Building:** ✅ COMPLETED
-* **Infrastructure Setup:** ✅ COMPLETED
-* **Official Launch:** 🚨 **🚀 LIVE NOW ON PUMP.FUN!**
-
-## 🤝 Join the Squad
-- **Telegram:** [https://t.me/spopatrsol]
-- **X (Twitter):** [https://x.com/SpoPatr]
-- **Pump.fun Profile:** [https://pump.fun/coin/DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]
-- **Contract Address:** [DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump]
-
-*Hold until the first milestone. Diamond Hands Only!* 💎🧤
-
-## 👑 THE LEGENDARY RELAY: $SpoPatr is Next! 🫧
-
-The giants have landed in Bikini Bottom. **Pepe, Doge, and Pengu** have officially arrived to pass the baton to the new ruler of the Solana seas. 🤝🔥
-
-While the legends take their rest at the bottom of the ocean, **$SpoPatr** is igniting the Pineapple Rocket. We are not just a token; we are the next phase of the meme evolution.
-
-### 📍 Status: PREPARING FOR ATMOSPHERIC BREACH
-* **From:** Deep Sea (Bikini Bottom)
-* **To:** MARS 🌌
-* **Fuel:** 100% Organic Community Power (No Paid Shills)
-* **Estimated Launch:** *LIVE NOW ON PUMP.FUN!🚀*
-
-**The baton has been passed. The engine is loud. The bubbles are rising.** 🫧
 ---
+
+## ⚡ Quick Info
+- **Network:** Solana (SPL)
+- **Contract Address:** `DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump`
+- **Security:** 100% Clean Scan (No Mint, No Freeze Authority) ✅
+- **Current Status:** **Active Bonding Curve Progress** 📈
+  *We are currently in the liquidity building phase. Once the Bonding Curve is completed, liquidity will be permanently locked on Raydium, triggering the immediate application process for global exchange listings.*
+
+---
+
+## 🗺️ The Path to Global Exchanges
+Our strategy focuses on accelerating the Bonding Curve to achieve these primary milestones:
+1. **Migration:** Automatic Liquidity Lock on Raydium.
+2. **Visibility:** Priority listings on CoinGecko & CoinMarketCap.
+3. **CEX Domination:** Fast-track submission to **MEXC**, **Gate.io**, and **Bybit**.
+
+> 📄 **For comprehensive technical details, economic structure, and our complete CEX listing strategy, please refer to the official documentation:**
+> ### 👉 [READ THE WHITEPAPER HERE](./WHITEPAPER.md)
+
+---
+
+## 🔗 Official Channels
+- **Telegram:** [JOIN THE SQUAD](https://t.me/spopatrsol)
+- **X (Twitter):** [FOLLOW UPDATES](https://x.com/SpoPatr)
+- **Website:** [OFFICIAL WEBSITE](https://spopatr.carrd.co))
+- **Live Chart:** [VIEW PROGRESS ON PUMP.FUN](https://pump.fun/coin/DUXdfhtQRYUAbJeDongKrGvG1JeAxAnkiShpFkkfpump)
+
+---
+*Building the most resilient community in the ocean. Let's finish the curve! 🫧🚀*
